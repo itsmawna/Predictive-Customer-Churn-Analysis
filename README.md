@@ -1,4 +1,18 @@
 # Predictive Customer Churn Analysis
+---
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-0064A5?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FDCB6E?style=for-the-badge)
+![Gradient Boosting](https://img.shields.io/badge/Gradient_Boosting-FF6B6B?style=for-the-badge)
+![Random Forest](https://img.shields.io/badge/Random_Forest-6C5CE7?style=for-the-badge)
+![Neural Network](https://img.shields.io/badge/Neural_Network-FF6F61?style=for-the-badge)
+![Data Visualization](https://img.shields.io/badge/Data_Visualization-FDCB6E?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C80F?style=for-the-badge&logo=power-bi&logoColor=black)
+
+---
 
 ## Project Overview
 This project performs predictive analysis of customer churn for a telecommunications company using machine learning and data visualization techniques.
